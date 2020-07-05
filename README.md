@@ -1,4 +1,4 @@
-# Introdução a JPA e Hibernate (bônus: Maven) - Aulão #006
+# Introdução JPA e Hibernate (bônus Maven e MySQL) - Aulão #006
 ###### DevSuperior - sua carreira dev com fundamento de ensino superior
 
 **Comunidade no Discord**:
@@ -12,7 +12,7 @@ Não perca as novidades:
 
 Assista o vídeo desta aula:
 
-[![Image](https://img.youtube.com/vi/TIZ1PNH0128/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/TIZ1PNH0128)
+[![Image](https://img.youtube.com/vi/CAP1IPgeJkw/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/CAP1IPgeJkw)
 
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
@@ -52,7 +52,7 @@ Para trabalhar com JPA é preciso incluir no projeto uma implementação da API 
 
 Arquitetura de uma aplicação que utiliza JPA:
 
-![myImage](https://github.com/devsuperior/aulao006/raw/master/img-arquitetura.png)
+![myImage](https://github.com/devsuperior/aulao006/raw/master/img-arquitetura-jpa.png)
 
 ### Principais classes:
 
